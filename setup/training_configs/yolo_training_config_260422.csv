@@ -1,0 +1,3 @@
+run_name,optimizer,lr_0,momentum,batch,model,epochs,patience,workers,resume
+M1_adamw_lr001,AdamW,0.001,0.9,16,yolo11m.pt,50,20,6,
+M2_sgd,SGD,0.01,0.937,16,yolo11m.pt,50,20,6,

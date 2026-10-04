@@ -1,0 +1,2 @@
+run_name,optimizer,lr_0,momentum,batch,model,epochs,patience,workers,resume,run_overwrite
+23classes_adam_8batch_ext,Adam,0.001,0.9,8,runs/series260705_ext/23classes_adam_8batch_ext/weights/last.pt,50,40,6,false,true

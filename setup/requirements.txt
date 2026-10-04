@@ -1,0 +1,14 @@
+# requirement: Python >= 3.10, setup confirmed for 3.10.12
+
+# PyTorch with ROCm for AMD GPUs, the index provides the +rocm builds
+--extra-index-url https://download.pytorch.org/whl/rocm6.0
+torch==2.4.1+rocm6.0
+torchvision==0.19.1+rocm6.0
+
+ultralytics==8.3.199
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.3.2
+matplotlib==3.10.6
+PyYAML==6.0.2
+requests==2.32.5

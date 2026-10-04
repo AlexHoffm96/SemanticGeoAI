@@ -1,0 +1,4 @@
+run_name,optimizer,lr_0,momentum,batch,model,epochs,patience
+M1_medium_b8,Adam,0.01,0.9,8,yolo11m.pt,20,20
+M2_medium_b16,Adam,0.01,0.9,16,yolo11m.pt,20,20
+M3_medium_b32,Adam,0.01,0.9,32,yolo11m.pt,20,20

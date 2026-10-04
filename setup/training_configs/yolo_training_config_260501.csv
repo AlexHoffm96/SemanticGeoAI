@@ -1,0 +1,2 @@
+run_name,optimizer,lr_0,momentum,batch,model,epochs,patience,workers,resume
+26classes_adam_lr001,Adam,0.001,0.9,16,yolo11m.pt,50,20,6,true

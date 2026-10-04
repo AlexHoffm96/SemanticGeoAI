@@ -1,0 +1,9 @@
+ring_km,images,per_image,per_test_set,distance_km,deviation_pct
+30,1172,median,median,8351.5,0.0
+30,1172,median,mean,8666.0,3.8
+30,1172,mean,median,8616.7,3.2
+30,1172,mean,mean,8774.7,5.1
+100,1061,median,median,8280.7,0.0
+100,1061,median,mean,8528.3,3.0
+100,1061,mean,median,8585.0,3.7
+100,1061,mean,mean,8692.2,5.0

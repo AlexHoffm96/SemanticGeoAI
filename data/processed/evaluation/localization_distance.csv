@@ -1,0 +1,3 @@
+ring_km,images,without_estimate,median_error_km,median_random_km,median_best_km,closer_than_random_pct,median_error_reduction_pct,median_mean_position_km,mean_position_closer_than_random_pct,median_similarity_distance_rho,similarity_distance_rho_negative_pct
+30,1172,18,7605.1,8351.5,29.2,58.4,8.9,6775.0,83.0,-0.004,51.9
+100,1061,13,7557.9,8280.7,98.0,57.4,8.7,6624.9,86.9,-0.003,51.6

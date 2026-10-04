@@ -1,0 +1,9 @@
+run_name,optimizer,lr_0,momentum,batch,model,epochs,patience,resume
+S1_adam_b32,Adam,0.01,0.9,32,yolo11s.pt,100,40,
+S2_radam_b32,RAdam,0.01,0.9,32,yolo11s.pt,100,40,
+S3_adam_lr001,Adam,0.001,0.9,32,yolo11s.pt,100,40,
+S4_adam_lr005,Adam,0.005,0.9,32,yolo11s.pt,100,40,
+S5_adamw_lr001,AdamW,0.001,0.9,32,yolo11s.pt,100,40,
+S6_sgd_b32,SGD,0.01,0.937,32,yolo11s.pt,100,40,
+S7_adam_m,Adam,0.01,0.9,16,yolo11m.pt,100,40,true
+S8_adam_b64,Adam,0.02,0.9,64,yolo11s.pt,100,40,

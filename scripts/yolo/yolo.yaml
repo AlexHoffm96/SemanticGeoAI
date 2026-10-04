@@ -1,0 +1,52 @@
+raw: data/raw/vistas
+train: training/images
+val: validation/images
+path: data/processed/yolo
+panoptic_categories:
+  0: human--person--individual
+  1: object--vehicle--car
+  2: object--traffic-sign--front
+  3: object--vehicle--truck
+  4: object--vehicle--motorcycle
+  5: object--vehicle--bus
+  6: nature--sky
+  7: construction--structure--building
+  8: nature--vegetation
+  9: nature--mountain
+  10: human--rider--motorcyclist
+  11: human--rider--bicyclist
+  12: nature--terrain
+  13: construction--barrier--wall
+  14: object--traffic-sign--back
+  15: object--sign--store
+  16: object--traffic-sign--direction-front
+  17: object--sign--advertisement
+  18: object--traffic-sign--direction-back
+  19: object--traffic-sign--information-parking
+  20: object--banner
+  21: object--support--pole
+  22: construction--structure--bridge
+names:
+  0: person
+  1: car
+  2: stop_sign
+  3: truck
+  4: motorcycle
+  5: bus
+  6: custom_sky
+  7: custom_building
+  8: custom_vegetation
+  9: custom_mountain
+  10: custom_person_motorcycle
+  11: custom_person_bicycle
+  12: custom_terrain
+  13: custom_wall
+  14: custom_signboard_back
+  15: custom_signboard_store
+  16: custom_signboard_front
+  17: custom_poster
+  18: custom_signboard_direction_back
+  19: custom_signboard_information_parking
+  20: custom_banner
+  21: custom_support_pole
+  22: custom_bridge

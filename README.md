@@ -1,6 +1,6 @@
 # GeoAI: Image Geolocalization Pipeline
 
-This project contains the directory belonging the master's thesis "Aufbau zentraler Komponenten einer bildbasierten Geolokalisierungspipeline",
+This project contains the directory belonging to the master's thesis "Aufbau zentraler Komponenten einer bildbasierten Geolokalisierungspipeline",
 meaning "Composition of core components of an image based geolocalization pipeline." 
 
 It explores an approach of utilizing interpretable semantic image features to estimate their geolocalization, e.g. cars, vegetation or street signs.
@@ -16,7 +16,7 @@ It explores an approach of utilizing interpretable semantic image features to es
 - [Execution](#execution)
 - [Planned Updates](#planned-updates)
 - [Used Sources](#used-sources)
-- [Information for Use of Data ](#information-for-use-of-data)
+- [Information for Use of Data](#information-for-use-of-data)
 
 ---
 
